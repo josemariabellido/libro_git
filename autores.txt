@@ -1,2 +1,4 @@
-correo electronico: a_josbelver@iestriana.com
-nombre: jose maria bellido 
+- correo: jmbellido11@gmail.com
+- nombre: bellido
+- correo: a_josbelver@iestriana.com
+- nombre: jose maria bellido
